@@ -1,2 +1,2 @@
 # Super-XP-Games
-This page is in development and not working
+This page is in development and not working right now
