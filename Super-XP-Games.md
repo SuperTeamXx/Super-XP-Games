@@ -62,3 +62,5 @@
 <br/><br/>
 
 [Undertale Sans Fight](http://superteamxp.github.io/Undertale-Sans-Fight-Unblocked/)
+
+[Bee Sans Fight](https://hyzq.github.io/Bee-Sans-fight3)
