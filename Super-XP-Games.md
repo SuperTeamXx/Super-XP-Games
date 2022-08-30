@@ -41,7 +41,7 @@
 
 <br/><br/>
 
-<img align="left" src="images/Cookie Clicker.png" alt="Cookie Clicker" width="130"/>
+<img align="left" src="images/Cookie Clicker.png" alt="Cookie Clicker" width="140"/>
 
 <br/>
 
