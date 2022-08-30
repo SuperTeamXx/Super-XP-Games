@@ -45,7 +45,7 @@
 
 <br/>
 
-[Cookie Clicker](https://trixter9994.github.io/Cookie-Clicker-Source-Code/)
+[Cookie Clicker](https://superteamxp.github.io/Cookie-Clicker-Unblocked/)
 
 <br/><br/><br/><br/>
 
