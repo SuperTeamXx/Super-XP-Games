@@ -38,3 +38,11 @@
 [Osu!](https://www.webosu.online)
 
 [Osu!Mania](https://rodrig0v.github.io/webmania/#/)
+
+<br/><br/>
+
+<img align="left" src="images/Cookie Clicker.png" alt="Cookie Clicker" width="130"/>
+
+<br/>
+
+[Cookie Clicker](https://trixter9994.github.io/Cookie-Clicker-Source-Code/)
