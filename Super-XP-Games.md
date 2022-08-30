@@ -46,3 +46,11 @@
 <br/>
 
 [Cookie Clicker](https://trixter9994.github.io/Cookie-Clicker-Source-Code/)
+
+<br/><br/><br/><br/>
+
+<img align="left" src="images/Flappy Bird.png" alt="Flappy Bird" width="140"/>
+
+<br/>
+
+[Flappy Bird](https://superteamxp.github.io/Flappy-Bird-Unblocked/)
