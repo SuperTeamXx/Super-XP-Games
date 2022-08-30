@@ -28,3 +28,13 @@
 <br/>
 
 [Subway Surfers](https://superteamxp.github.io/Subway-Surfers/)
+
+<br/><br/>
+
+<img align="left" src="images/Osu!.png" alt="Osu!" width="130"/>
+
+<br/>
+
+[Osu!](https://www.webosu.online)
+
+[Osu!Mania](https://rodrig0v.github.io/webmania/#/)
