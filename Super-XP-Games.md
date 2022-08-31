@@ -64,3 +64,11 @@
 [Undertale Sans Fight](http://superteamxp.github.io/Undertale-Sans-Fight-Unblocked/)
 
 [Bee Sans Fight](https://hyzq.github.io/Bee-Sans-fight3)
+
+<br/><br/>
+
+<img align="left" src="images/Super Mario Bros..png" alt="Super Mario Bros." width="120"/>
+
+<br/>
+
+[Super Mario Bros.](https://superteamxp.github.io/FullScreenMario-Unblocked/)
