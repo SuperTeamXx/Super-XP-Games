@@ -65,7 +65,7 @@
 
 [Bee Sans Fight](https://hyzq.github.io/Bee-Sans-fight3)
 
-[Hell of a Time Sans Fight](https://kckarnige.is-a.dev/hoat)
+[Boundtale Hell of a Time Fight](https://kckarnige.is-a.dev/hoat)
 
 <br/><br/>
 
