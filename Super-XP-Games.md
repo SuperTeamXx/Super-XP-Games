@@ -69,6 +69,6 @@
 
 <img align="left" src="images/Super Mario Bros..png" alt="Super Mario Bros." width="120"/>
 
-<br/>
+<br/><br/>
 
 [Super Mario Bros.](https://superteamxp.github.io/FullScreenMario-Unblocked/)
