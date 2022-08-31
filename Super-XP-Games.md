@@ -59,11 +59,13 @@
 
 <img align="left" src="images/Sans Fight.png" alt="Sans Fight" width="130"/>
 
-<br/><br/>
+<br/>
 
 [Undertale Sans Fight](http://superteamxp.github.io/Undertale-Sans-Fight-Unblocked/)
 
 [Bee Sans Fight](https://hyzq.github.io/Bee-Sans-fight3)
+
+[Hell of a Time Sans Fight](https://kckarnige.is-a.dev/hoat)
 
 <br/><br/>
 
