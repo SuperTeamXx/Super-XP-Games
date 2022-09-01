@@ -1,10 +1,10 @@
 ## Welcome to Super XP Games! A site where you can play tons of cool games! Even at school!
 
 <img align="left" src="images/Minecraft.png" alt="Minecraft" width="120"/>
-<br/><br/><br/>
+<br/><br/>
 
 [Minecraft Unblocked](https://superteamxp.github.io/Minecraft-Unblocked/javascript) (NOW HAS SINGLEPLAYER AND LAN WORLD SUPPORT!) (Does not work on iPad)
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <img align="left" src="images/FNF Dusttale.png" alt="FNF Dusttale" width="170"/>
 
