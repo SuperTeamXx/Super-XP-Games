@@ -13,7 +13,7 @@
 [FNF DUSTTALE Web Low End Device](https://superteamxp.github.io/FNF-DUSTTALE-Web-Low-End-Device/) (This version is for lower end devices that can't handle as much stuff)
 
 [FNF DUSTTALE Web Potato Device](https://superteamxp.github.io/FNF-DUSTTALE-Web-Potato-Device/) (This version is for EVEN LOWER end devices or iOS/iPads)
-<br/>
+
 <img align="left" src="images/FNF VS Shaggy.png" alt="FNF VS Shaggy" width="170"/>
 
 <br/>
