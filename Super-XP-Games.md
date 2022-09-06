@@ -4,7 +4,7 @@
 <br/><br/>
 
 [Minecraft Unblocked](https://superteamxp.github.io/Minecraft-Unblocked/javascript) (NOW HAS SINGLEPLAYER AND LAN WORLD SUPPORT!) (Does not work on iPad)
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 <img align="left" src="images/FNF Dusttale.png" alt="FNF Dusttale" width="170"/>
 
@@ -20,7 +20,7 @@
 
 [FNF VS Shaggy](https://superteamxp.github.io/FNF-VS-Shaggy/)
 
-<br/><br/>
+<br/>
 
 <img align="left" src="images/FNF Undertale.png" alt="FNF Undertale" width="170"/>
 
@@ -28,7 +28,7 @@
 
 [FNF Undertale](https://superteamxp.github.io/FNF-Undertale-Web/)
 
-<br/><br/>
+<br/>
 
 <img align="left" src="images/Subway Surfers.png" alt="Subway Surfers" width="170"/>
 
@@ -36,7 +36,7 @@
 
 [Subway Surfers](https://superteamxp.github.io/Subway-Surfers/)
 
-<br/><br/>
+<br/>
 
 <img align="left" src="images/Osu!.png" alt="Osu!" width="130"/>
 
@@ -46,7 +46,7 @@
 
 [Osu!Mania](https://rodrig0v.github.io/webmania/#/)
 
-<br/><br/>
+<br/>
 
 <img align="left" src="images/Cookie Clicker.png" alt="Cookie Clicker" width="140"/>
 
@@ -54,7 +54,7 @@
 
 [Cookie Clicker](https://superteamxp.github.io/Cookie-Clicker-Unblocked/)
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <img align="left" src="images/Flappy Bird.png" alt="Flappy Bird" width="140"/>
 
@@ -62,7 +62,7 @@
 
 [Flappy Bird](https://superteamxp.github.io/Flappy-Bird-Unblocked/)
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <img align="left" src="images/Sans Fight.png" alt="Sans Fight" width="130"/>
 
@@ -74,15 +74,15 @@
 
 [Boundtale Hell of a Time Fight](https://kckarnige.is-a.dev/hoat)
 
-<br/><br/>
+<br/>
 
 <img align="left" src="images/Super Mario Bros..png" alt="Super Mario Bros." width="120"/>
 
-<br/><br/>
+<br/>
 
 [Super Mario Bros.](https://superteamxp.github.io/FullScreenMario-Unblocked/)
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <img align="left" src="images/Five Nights at Freddys.png" alt="FNaF" width="140"/>
 
@@ -90,7 +90,7 @@
 
 [Five Nights at Freddy's](https://superteamxp.github.io/Five-Nights-at-Freddys-Unblocked/)
 
-<br/><br/><br/>
+<br/><br/>
 
 <img align="left" src="images/Evolve.png" alt="Evolve" width="140"/>
 
