@@ -80,7 +80,7 @@
 
 [Bee Sans Fight](https://hyzq.github.io/Bee-Sans-fight3)
 
-<s>Boundtale Hell of a Time Fight</s>
+<s>Boundtale Hell of a Time Fight</s> (Website is down)
 
 <br/>
 
