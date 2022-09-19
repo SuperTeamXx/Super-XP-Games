@@ -80,7 +80,8 @@
 
 [Bee Sans Fight](https://hyzq.github.io/Bee-Sans-fight3)
 
-<s>Boundtale Hell of a Time Fight</s> (Website is down)
+[Boundtale Hell of a Time Fight](https://kckarnige.is-a.dev/hoat)
+
 <br/>
 
 <img align="left" src="images/Super Mario Bros..png" alt="Super Mario Bros." width="120"/>
