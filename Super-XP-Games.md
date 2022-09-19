@@ -80,7 +80,7 @@
 
 [Bee Sans Fight](https://hyzq.github.io/Bee-Sans-fight3)
 
-[Boundtale Hell of a Time Fight](https://kckarnige.is-a.dev/hoat)
+<s>Boundtale Hell of a Time Fight</s>
 
 <br/>
 
