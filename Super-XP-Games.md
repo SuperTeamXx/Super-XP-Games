@@ -1,5 +1,7 @@
 ## Welcome to Super XP Games! A site where you can play tons of cool games! Even at school!
 
+I see you Jaden 0_0
+
 <img align="left" src="images/Minecraft.png" alt="Minecraft" width="120"/>
 <br/><br/>
 
