@@ -121,3 +121,27 @@
 <br/>
 
 [GBA Emulator](https://superteamxp.github.io/GBA-Emulator-Unblocked/)
+
+<br/><br/>
+
+<img align="left" src="images/Super Mario 64.png" alt="Super Mario 64" width="170"/>
+
+<br/>
+
+[Super Mario 64](https://superteamxp.github.io/SM64-Unblocked/)
+
+<br/><br/>
+
+<img align="left" src="images/Legend of Zelda OoT.png" alt="Legend of Zelda OoT" width="170"/>
+
+<br/>
+
+[The Legend of Zelda Ocarina of Time](https://superteamxp.github.io/The-Legend-of-Zelda-Ocarina-of-Time-Unblocked/)
+
+<br/><br/>
+
+<img align="left" src="images/Super Smash Bros.png" alt="Super Smash Bros" width="170"/>
+
+<br/>
+
+[Super Smash Bros](https://superteamxp.github.io/Super-Smash-Bros-Unblocked/)
