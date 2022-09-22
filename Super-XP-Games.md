@@ -1,7 +1,5 @@
 ## Welcome to Super XP Games! A site where you can play tons of cool games! Even at school!
 
-I see you Jaden 0_0
-
 <img align="left" src="images/Minecraft.png" alt="Minecraft" width="120"/>
 <br/><br/>
 
@@ -147,3 +145,19 @@ I see you Jaden 0_0
 <br/>
 
 [Super Smash Bros](https://superteamxp.github.io/Super-Smash-Bros-Unblocked/)
+
+<br/><br/>
+
+<img align="left" src="images/Banjo-Kazooie.png" alt="Banjo-Kazooie" width="170"/>
+
+<br/>
+
+[Banjo-Kazooie](https://superteamxp.github.io/Banjo-Kazooie-Unblocked/)
+
+<br/><br/>
+
+<img align="left" src="images/Banjo-Tooie.png" alt="Banjo-Tooie" width="170"/>
+
+<br/>
+
+[Banjo-Tooie](https://superteamxp.github.io/Banjo-Tooie-Unblocked/)
