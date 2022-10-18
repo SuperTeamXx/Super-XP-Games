@@ -3,22 +3,22 @@
 <img align="left" src="images/Minecraft.png" alt="Minecraft" width="120"/>
 <br/><br/>
 
-[Minecraft Unblocked](https://superteamxp.github.io/Minecraft-Unblocked/javascript) (NOW HAS SINGLEPLAYER AND LAN WORLD SUPPORT!) (Does not work on iPad)
+[Minecraft Unblocked](https://superteamxx.github.io/Minecraft-Unblocked/javascript) (NOW HAS SINGLEPLAYER AND LAN WORLD SUPPORT!) (Does not work on iPad)
 <br/><br/><br/><br/><br/>
 
 <img align="left" src="images/FNF Dusttale.png" alt="FNF Dusttale" width="170"/>
 
-[FNF DUSTTALE Web High End Device](https://superteamxp.github.io/FNF-DUSTTALE-Web-High-End-Device/) (This version is for higher end devices that can handle more stuff)
+[FNF DUSTTALE Web High End Device](https://superteamxx.github.io/FNF-DUSTTALE-Web-High-End-Device/) (This version is for higher end devices that can handle more stuff)
 
-[FNF DUSTTALE Web Low End Device](https://superteamxp.github.io/FNF-DUSTTALE-Web-Low-End-Device/) (This version is for lower end devices that can't handle as much stuff)
+[FNF DUSTTALE Web Low End Device](https://superteamxx.github.io/FNF-DUSTTALE-Web-Low-End-Device/) (This version is for lower end devices that can't handle as much stuff)
 
-[FNF DUSTTALE Web Potato Device](https://superteamxp.github.io/FNF-DUSTTALE-Web-Potato-Device/) (This version is for EVEN LOWER end devices or iOS/iPads)
+[FNF DUSTTALE Web Potato Device](https://superteamxx.github.io/FNF-DUSTTALE-Web-Potato-Device/) (This version is for EVEN LOWER end devices or iOS/iPads)
 
 <img align="left" src="images/FNF VS Shaggy.png" alt="FNF VS Shaggy" width="170"/>
 
 <br/>
 
-[FNF VS Shaggy](https://superteamxp.github.io/FNF-VS-Shaggy/)
+[FNF VS Shaggy](https://superteamxx.github.io/FNF-VS-Shaggy/)
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-[FNF Undertale](https://superteamxp.github.io/FNF-Undertale-Web/)
+[FNF Undertale](https://superteamxx.github.io/FNF-Undertale-Web/)
 
 <br/>
 
@@ -42,7 +42,7 @@
 
 <br/>
 
-[Subway Surfers](https://superteamxp.github.io/Subway-Surfers/)
+[Subway Surfers](https://superteamxx.github.io/Subway-Surfers/)
 
 <br/>
 
@@ -60,7 +60,7 @@
 
 <br/>
 
-[Cookie Clicker](https://superteamxp.github.io/Cookie-Clicker-Unblocked/)
+[Cookie Clicker](https://superteamxx.github.io/Cookie-Clicker-Unblocked/)
 
 <br/><br/><br/>
 
@@ -68,7 +68,7 @@
 
 <br/>
 
-[Flappy Bird](https://superteamxp.github.io/Flappy-Bird-Unblocked/)
+[Flappy Bird](https://superteamxx.github.io/Flappy-Bird-Unblocked/)
 
 <br/><br/><br/>
 
@@ -76,7 +76,7 @@
 
 <br/>
 
-[Undertale Sans Fight](http://superteamxp.github.io/Undertale-Sans-Fight-Unblocked/)
+[Undertale Sans Fight](http://superteamxx.github.io/Undertale-Sans-Fight-Unblocked/)
 
 [Bee Sans Fight](https://hyzq.github.io/Bee-Sans-fight3)
 
@@ -88,7 +88,7 @@
 
 <br/>
 
-[Super Mario Bros.](https://superteamxp.github.io/FullScreenMario-Unblocked/)
+[Super Mario Bros.](https://superteamxx.github.io/FullScreenMario-Unblocked/)
 
 <br/><br/><br/><br/>
 
@@ -96,7 +96,7 @@
 
 <br/><br/>
 
-[Five Nights at Freddy's](https://superteamxp.github.io/Five-Nights-at-Freddys-Unblocked/)
+[Five Nights at Freddy's](https://superteamxx.github.io/Five-Nights-at-Freddys-Unblocked/)
 
 <br/><br/>
 
@@ -120,7 +120,7 @@
 
 <br/>
 
-[GBA Emulator](https://superteamxp.github.io/GBA-Emulator-Unblocked/)
+[GBA Emulator](https://superteamxx.github.io/GBA-Emulator-Unblocked/)
 
 <br/><br/>
 
@@ -128,7 +128,7 @@
 
 <br/>
 
-[Super Mario 64](https://superteamxp.github.io/SM64-Unblocked/)
+[Super Mario 64](https://superteamxx.github.io/SM64-Unblocked/)
 
 <br/><br/>
 
@@ -136,7 +136,7 @@
 
 <br/>
 
-[The Legend of Zelda Ocarina of Time](https://superteamxp.github.io/The-Legend-of-Zelda-Ocarina-of-Time-Unblocked/)
+[The Legend of Zelda Ocarina of Time](https://superteamxx.github.io/The-Legend-of-Zelda-Ocarina-of-Time-Unblocked/)
 
 <br/><br/>
 
@@ -144,7 +144,7 @@
 
 <br/>
 
-[Super Smash Bros](https://superteamxp.github.io/Super-Smash-Bros-Unblocked/)
+[Super Smash Bros](https://superteamxx.github.io/Super-Smash-Bros-Unblocked/)
 
 <br/><br/>
 
@@ -152,7 +152,7 @@
 
 <br/>
 
-[Banjo-Kazooie](https://superteamxp.github.io/Banjo-Kazooie-Unblocked/)
+[Banjo-Kazooie](https://superteamxx.github.io/Banjo-Kazooie-Unblocked/)
 
 <br/><br/>
 
@@ -160,4 +160,4 @@
 
 <br/>
 
-[Banjo-Tooie](https://superteamxp.github.io/Banjo-Tooie-Unblocked/)
+[Banjo-Tooie](https://superteamxx.github.io/Banjo-Tooie-Unblocked/)
